@@ -4,7 +4,7 @@ $(function() {
     Parse.$ = jQuery;
  
 Parse.initialize("2a250e47e9f9526de402bd9b17fc05a9dd9894f2");
-Parse.serverURL = 'http://18.188.102.180:80/parse/'
+Parse.serverURL = 'http://18.188.103.128:80/parse/'
 
     // Replace this line with the one on your Quickstart Guide Page
     //Parse.initialize("2a250e47e9f9526de402bd9b17fc05a9dd9894f2", "81ae3112bcc0d088382a9d7805fd0002ac99ecf3");
